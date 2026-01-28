@@ -8,7 +8,7 @@
   <a href="mailto:OrionTheProgrammer@proton.me" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/http_orion.low" target="blank">
+  <a href="https://www.instagram.com/orion.low/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
