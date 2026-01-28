@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋 soy Orión (Leandro) / Ingeniería en Informática en formación</h1> 
+<h1 align="center">Hola soy Leandro/Alias Orión / Ingeniero en Informática en formación</h1> 
 
 <p align="center">
-  <!-- Reemplaza estos links por los tuyos -->
+
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TU-EMAIL@gmail.com" target="blank">
+  <a href="mailto:OrionTheProgrammer@proton.me" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://instagram.com/http_orion.low" target="blank">
@@ -26,7 +26,7 @@
 
 🎮 Paralelamente hago proyectos creativos (game dev / herramientas) y voy iterando todo con mentalidad de ingeniería.
 
-📫 Contacto: **TU-EMAIL@gmail.com** (cámbialo arriba en el badge)
+📫 Contacto: **OrionTheProgrammer@proton.me**
 
 </p>
 
