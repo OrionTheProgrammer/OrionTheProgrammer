@@ -125,12 +125,12 @@
 
 <tr border="none">
   <td width="50%" align="center">
-    <h3>🧩 TiendaElectronica (Java)</h3>
+    <h3>🧩 Libreria Better Print for Java (BPT)</h3>
     <p align="center">
-      Proyecto para examen de POO: base sólida para lógica de tienda, entidades y flujo de compra.
+      BPJ (Better Print for Java) es una biblioteca ligera para Java 17+ que añade interpolación de cadenas al estilo Python y funciones de impresión sencillas para proyectos Maven.
     </p>
     <p align="center">
-      <a href="https://github.com/OrionTheProgrammer/TiendaElectronica" target="blank">
+      <a href="https://github.com/OrionTheProgrammer/better-print-java" target="blank">
         <img align="center" src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </p>
